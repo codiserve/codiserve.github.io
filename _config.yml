@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Codiserve
+tagline:             Writer.Coder.Developer
+url:                 https://codiserve.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Justin Hay
+  url:               https://twitter.com/codiserve
+  email:             jus@codiserve.com
 
 # Custom vars
 version:             2.0.0
