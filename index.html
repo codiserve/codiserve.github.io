@@ -3,12 +3,6 @@ layout: default
 title: Home
 ---
 
-{% if post.content contains '<!--more-->' %}
-    {{ post.content | split:'<!--more-->' | first }}
-{% else %}
-    <!-- Case for when no excerpt is defined -->
-{% endif %}
-
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
